@@ -27,4 +27,5 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+    namespace = "fun.cyjay.flutter_back_desktop"
 }
